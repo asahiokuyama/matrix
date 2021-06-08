@@ -1,0 +1,20 @@
+
+2.results of runs
+	1 size 10
+	//time for multiplying = 2807
+	//the size of matricies = 100
+	//the memory size of matrices = 800
+
+	2 size 100
+	//time for multiplying = 14890
+	//the size of matricies = 10000
+	//the memory size of matrices = 80000
+
+	3 size 1000 and 10000
+	zsh: segmentation fault  ./a.out
+
+
+3.report
+	I think that my pc can only run and calculate up to a matrix with a size of 100*100. 
+
+
